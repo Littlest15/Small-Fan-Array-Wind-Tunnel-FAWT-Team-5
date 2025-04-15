@@ -44,4 +44,4 @@ The live speed slider at the bottom bypasses the "Set All" button and any values
 
 # Electrical Inputs
 
-Included in this repository is a spreadsheet showing which GP pins each fan is connected to for each of the 4 Raspberry Pi Pico 2's used to control the 36 fans. Each Pico's number is labeled next to them on the interior walls of the fan array. 
+Included in this repository is a spreadsheet (Pico.xlsx) showing which GP pins each fan is connected to for each of the 4 Raspberry Pi Pico 2's used to control the 36 fans. Each Pico's number is labeled next to them on the interior walls of the fan array. 
