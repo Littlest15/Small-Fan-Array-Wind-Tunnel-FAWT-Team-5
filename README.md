@@ -30,17 +30,17 @@ Each fan load can be inputted individually into the text boxes for each fan. The
 
 When a value is inputted into the fan text boxes, it will turn red. This indicates that the value has changed but has not been implemented yet. To implement any changes to the fan speeds, click the "Set All" button. This will apply any changes made and the values will turn black.
 
-There are a few presets. To implement a preset, click the preset button and then click "Set All"
+There are a few presets. To implement a preset, click the preset button and then click "Set All".
 
-Minimum: Changes all fan loads to 0%
+Minimum: Changes all fan loads to 0%.
 
-Maximum: Changes all fan loads to 100%
+Maximum: Changes all fan loads to 100%.
 
 Boundary Layer: Changes row 6 load to 0%, row 5 load to 50%, and rows 1-4 to 100%. This simulates boundary layer flow.
 
-Random: Changes fan loads for each fan to a random value ranging from 0%-100%. This is ideal for simulating turbulant flows.
+Random: Changes fan loads for each fan to a random value ranging from 0%-100%. This is ideal for simulating unpredictable turbulant flows.
 
-The live speed slider at the bottom bypasses the "Set All" button and any values currently applied to any fan. As soon as the slider is moved, it will change all values for all fans to the percentage load it indicates. 
+The live speed slider at the bottom bypasses the "Set All" button and any values currently applied to any fan. As soon as the slider is moved, it will change all values for all fans to the percentage load indicated. 
 
 # Electrical Inputs
 
